@@ -78,21 +78,21 @@
                             <div class="modal-content">
                                 <div class="modal-body p-0">
                                     <div class="h-100">
-                                        <div class="row no-gutters h-100">
-                                            <div class="col-md-5 hide-on-mobile left-panel d-flex flex-column align-items-center p-4">
-                                                <div class="information mb-10 d-flex align-items-center text-yellow">
+                                        <div class="row no-gutters h-100 z-index-pop">
+                                            <div class="col-md-5 left-panel d-flex flex-column align-items-center p-4">
+                                                <div class="information media-mb mb-10 d-flex align-items-center text-yellow">
                                                     <img src="assets/images/logoo/logo.png" />
                                                 </div>
-                                                <h2 class="text-center text-yellow mb-3">WE PROMISE</h2>
-                                                <div class="information mb-3 d-flex align-items-center text-yellow">
+                                                <h2 class="hide-on-mobile  text-center text-yellow mb-3">WE PROMISE</h2>
+                                                <div class="information mb-3 d-flex hide-on-mobile align-items-center text-yellow">
                                                     <i class="fas fa-phone mr-2"></i>
                                                     <p class="mb-0"> Instant Call back</p>
                                                 </div>
-                                                <div style="margin-left: -23px;" class="information mb-3 d-flex align-items-center text-yellow">
+                                                <div style="margin-left: -23px;" class="hide-on-mobile  information mb-3 d-flex align-items-center text-yellow">
                                                     <i class="fas fa-building mr-2"></i>
                                                     <p class="mb-0">&nbsp;Free Site Visit</p>
                                                 </div>
-                                                <div class="information mb-3 d-flex align-items-center text-yellow">
+                                                <div class="hide-on-mobile information mb-3 d-flex align-items-center text-yellow">
                                                     <i class="fas fa-dollar-sign mr-2"></i>
                                                     <p class="mb-0"> Unmatched Price</p>
                                                 </div>

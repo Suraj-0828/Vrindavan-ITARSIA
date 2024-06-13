@@ -3,7 +3,7 @@
 
       <div class="container">
           <div class="row">
-              <div class="col-md-5 pr-5">
+              <div class="hide-on-mobile col-md-5 pr-5">
                   <div class="col-span-12 sm:col-span-6 lg:col-span-6 mb-[30px]">
                       <a href="javascript:void(0)" class="block mb-[25px]">
                           <img src="assets/images/logoo/logo.png" width="200" height="70" loading=lazy alt="footer logo">
@@ -17,11 +17,11 @@
                   </div>
 
               </div>
-              <div class="col-md-1">
+              <div class="hide-on-mobile col-md-1">
 
               </div>
 
-              <div class="col-md-3 media-quick-link-padding">
+              <div class="hide-on-mobile col-md-3 media-quick-link-padding">
                   <h3 class="font-lora font-normal text-[32px] leading-[1.222] text-black mb-[20px] lg:mb-[30px]">
                       Quick Link<span class="text-warning">.</span></h3>
                   <ul class="leading-none ">
