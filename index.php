@@ -2,14 +2,13 @@
 <html class="no-js" lang="en">
 
 
-<!-- Mirrored from htmldemo.net/bery/bery/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Jun 2024 04:35:37 GMT -->
 
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>Vrindavan</title>
     <meta name="AdsBot-Google" content="noindex follow" />
-    <meta name="description" content="Bery-Real Estate Listing Template">
+    <meta name="description" content="Explore our modern builder flats designed for contemporary living.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     <!-- Favicon -->
@@ -19,9 +18,6 @@
 
     <!-- Font CSS -->
     <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=karla:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet"> -->
-
 
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -79,22 +75,22 @@
                                 <div class="modal-body p-0">
                                     <div class="h-100">
                                         <div class="row no-gutters h-100 z-index-pop">
-                                            <div class="col-md-5 left-panel d-flex flex-column align-items-center p-4">
+                                            <div class="hide-on-mobile col-md-5 left-panel d-flex flex-column align-items-center p-4">
                                                 <div class="information media-mb mb-10 d-flex align-items-center text-yellow">
                                                     <img src="assets/images/logoo/logo.png" />
                                                 </div>
-                                                <h2 class="hide-on-mobile  text-center text-yellow mb-3">WE PROMISE</h2>
+                                                <h2 class="text-center text-yellow mb-3">WE PROMISE</h2>
                                                 <div class="information mb-3 d-flex hide-on-mobile align-items-center text-yellow">
                                                     <i class="fas fa-phone mr-2"></i>
                                                     <p class="mb-0"> Instant Call back</p>
                                                 </div>
-                                                <div style="margin-left: -23px;" class="hide-on-mobile  information mb-3 d-flex align-items-center text-yellow">
+                                                <div style="margin-left: -23px;" class="information mb-3 d-flex align-items-center text-yellow">
                                                     <i class="fas fa-building mr-2"></i>
                                                     <p class="mb-0">&nbsp;Free Site Visit</p>
                                                 </div>
-                                                <div class="hide-on-mobile information mb-3 d-flex align-items-center text-yellow">
-                                                    <i class="fas fa-dollar-sign mr-2"></i>
-                                                    <p class="mb-0"> Unmatched Price</p>
+                                                <div class="information mb-3 d-flex align-items-center text-yellow">
+                                                    <i class="fa-solid fa-indian-rupee-sign mr-2"></i>
+                                                    <p class="mb-0">&nbsp;Unmatched Price</p>
                                                 </div>
                                             </div>
                                             <div class="col-md-7 right-panel p-4">
@@ -396,7 +392,7 @@
                 </nav>
             </div>
             <ul class="row portfolio-item">
-                <li class="mix bhk1 col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                <li class="mix bhk1 modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd">
                     <img src="assets/images/apartment-map/2.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -410,7 +406,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix bhk1 col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                <li class="mix bhk1 modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd">
                     <img src="assets/images/apartment-map/6.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -424,7 +420,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix bhk2 col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                <li class="mix bhk2 modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd">
                     <img src="assets/images/apartment-map/1.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -438,7 +434,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix bhk2 col-xl-3 col-md-4 col-12 col-sm-6 pd ">
+                <li class="mix bhk2 modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd ">
                     <img src="assets/images/apartment-map/4.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -452,7 +448,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix floor col-xl-3 col-md-4 col-12 col-sm-6 pd ">
+                <li class="mix floor modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd ">
                     <img src="assets/images/apartment-map/3.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -466,7 +462,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix floor col-xl-3 col-md-4 col-12 col-sm-6 pd ">
+                <li class="mix floor modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd ">
                     <img src="assets/images/apartment-map/5.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -480,7 +476,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix terrace col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                <li class="mix terrace modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd">
                     <img src="assets/images/apartment-map/7.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -494,7 +490,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="mix map-location col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                <li class="mix map-location modal-trigger col-xl-3 col-md-4 col-12 col-sm-6 pd">
                     <img src="assets/images/apartment-map/map.jpg" itemprop="thumbnail" alt="Image description" />
                     <div class="portfolio-overlay">
                         <div class="overlay-content">
@@ -953,11 +949,6 @@
     <?php include 'footer.php'; ?>
     <!-- Footer End -->
 
-
-
-
-
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
@@ -971,7 +962,6 @@
         // 1. querySelector
         var containerEl = document.querySelector(".portfolio-item");
         // 2. Passing the configuration object inline
-        //https://www.kunkalabs.com/mixitup/docs/configuration-object/
         var mixer = mixitup(containerEl, {
             animation: {
                 effects: "fade translateZ(-100px)",
