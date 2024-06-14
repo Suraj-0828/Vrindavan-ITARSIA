@@ -6,9 +6,9 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Vrindavan</title>
+    <title>Perfect Blend of Convenience, Connectivity & Serenity | Ideal for New-Age Home Buyers</title>
     <meta name="AdsBot-Google" content="noindex follow" />
-    <meta name="description" content="Explore our modern builder flats designed for contemporary living.">
+    <meta name="description" content="Experience the perfect blend of convenience, connectivity, and serenity in a nature-rich location, ideal for new-age home buyers with perfect connectivity to all places.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     <!-- Favicon -->
